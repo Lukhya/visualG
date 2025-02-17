@@ -1,11 +1,7 @@
-Caso vocÍ n„o consiga ver ou n„o consiga trocar 
-a roupagem do programa VISUALG 3.0, FA«A:
+Esta √© a vers√£o 3.0.7 do VisualG (o professor Antonio Carlos Nicolodi tomou a iniciativa de continuar o projeto do Visualg e criou a vers√£o 3.0 com nova interface e algumas melhorias). O VisualG ser√° utilizado para as aulas de Fundamentos de Desenvolvimento de Software.
+Para baixar o VisualG, clique no Bot√£o Code > Download zip.
 
-1∫ Saia ou feche o programa VISUALG 3.0
-2∫ Copie a pasta SKINS para "a unidade C: ou o drive C:" 
-   na raiz que dever· ficar assim: C:\SKINS
 
-3∫ Depois execute o programa novamente e pronto!
 
 Banco do Brasil
 Banco: 01
@@ -15,9 +11,9 @@ a small donation for this project. Others Countries,
 donation (one US dollar) => US$ 1  Thank you !
 Brazil Bank, Agency: 3148-8, Checking account: 13.233-0 
 =================================================
-Este programa È totalmente gr·tis. 
-PorÈm, para dar continuidade a este PROJETO.
-E se alguÈm puder e quiser ajud·-lo, poder· DOAR 
-uma pequena quantia simbÛlica de : Um Real R$ 1,00 
+Este programa √© totalmente gr√°tis. 
+Por√©m, para dar continuidade a este PROJETO.
+E se algu√©m puder e quiser ajud√°-lo, poder√° DOAR 
+uma pequena quantia simb√≥lica de : Um Real R$ 1,00 
 Banco do Brasil - Agencia: 3148-8 - Cta.-corrente: 13.233-0
-AgradeÁo desde j· qualquer ajuda.
+Agrade√ßo desde j√° qualquer ajuda.
